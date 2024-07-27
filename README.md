@@ -103,8 +103,3 @@ Now the model can be rewritten as a first-order ODE:
 ### Conclusion
 
 This reformulated model can now be used to apply the MPC method, facilitating the control of the spacecraft's trajectory and orientation during powered descent.
-
-
-
-
-
